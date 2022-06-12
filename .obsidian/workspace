@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "36d892cdd75e34c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bebc978bcc87330",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d65714f4842f79f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab5beb1e00d53b8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e482d9d3f673d6a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aaaef12f4109a283",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a793167dfb4748c",
+    "type": "split",
+    "children": [
+      {
+        "id": "34f6cdd4ab943395",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31ad60ffe1486203",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e78f4716f02b3088",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3bebc978bcc87330",
+  "lastOpenFiles": [
+    "English/IT/Layout/Flex - определения.md",
+    "English/IT/Layout/Classes.md",
+    "English/IT/Layout.md"
+  ]
+}
