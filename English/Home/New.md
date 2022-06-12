@@ -1,0 +1,5 @@
+married -- жениться
+
+
+
+#flashcards

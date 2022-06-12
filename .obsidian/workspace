@@ -7,8 +7,11 @@
         "id": "3bebc978bcc87330",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "English/Home/New.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "English/Home/New.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,8 +97,9 @@
   },
   "active": "3bebc978bcc87330",
   "lastOpenFiles": [
-    "English/IT/Layout/Flex - определения.md",
+    "English/Home/New.md",
     "English/IT/Layout/Classes.md",
+    "English/IT/Layout/Flex - определения.md",
     "English/IT/Layout.md"
   ]
 }
