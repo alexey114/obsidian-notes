@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/Common/Technical.md",
+            "file": "English/IT/SVG/Figures.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Common/Technical.md",
+                "file": "English/IT/SVG/Figures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "3bebc978bcc87330",
   "lastOpenFiles": [
+    "English/IT/SVG/Figures.md",
     "English/Common/Technical.md",
     "English/IT/Layout/JS.md",
     "English/Home/New.md",
