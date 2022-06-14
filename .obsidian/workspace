@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/IT/Layout/Classes.md",
-            "mode": "preview"
+            "file": "English/Home/New.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/IT/Layout/Classes.md",
+                "file": "English/Home/New.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +97,11 @@
   },
   "active": "3bebc978bcc87330",
   "lastOpenFiles": [
-    "English/IT/Layout/Classes.md",
     "English/Home/New.md",
+    "English/IT/Layout/JS.md",
+    "English/Common/Technical.md",
+    "README.md",
+    "English/IT/Layout/Classes.md",
     "English/IT/Layout/Flex - определения.md",
     "English/IT/Layout.md"
   ]
