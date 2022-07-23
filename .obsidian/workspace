@@ -1,16 +1,17 @@
 {
   "main": {
-    "id": "36d892cdd75e34c2",
+    "id": "c50d1f8d9495751f",
     "type": "split",
     "children": [
       {
-        "id": "3bebc978bcc87330",
+        "id": "3e77002652dcbf72",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/IT/Layout/Flex - определения.md",
-            "mode": "preview"
+            "file": "README.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -18,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d65714f4842f79f8",
+    "id": "703613320d30e481",
     "type": "split",
     "children": [
       {
-        "id": "ab5beb1e00d53b8e",
+        "id": "4aa1b01ca7fca34c",
         "type": "tabs",
         "children": [
           {
-            "id": "e482d9d3f673d6a9",
+            "id": "0e538412da847dd5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +35,7 @@
             }
           },
           {
-            "id": "aaaef12f4109a283",
+            "id": "5a20671f756db9c9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -47,6 +48,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "6f955d6a99476709",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -55,20 +64,20 @@
     "width": 300
   },
   "right": {
-    "id": "7a793167dfb4748c",
+    "id": "694dfc01fc736584",
     "type": "split",
     "children": [
       {
-        "id": "34f6cdd4ab943395",
+        "id": "fda4df1a0afab389",
         "type": "tabs",
         "children": [
           {
-            "id": "31ad60ffe1486203",
+            "id": "4fd6b6a5d3bcb419",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/IT/Layout/Flex - определения.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,30 +89,62 @@
             }
           },
           {
-            "id": "e78f4716f02b3088",
+            "id": "9fe650df4178cab9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "English/Common/Technical.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e9d92de5be7325d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3d75238b34600c48",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "English/Common/Technical.md"
+              }
+            }
+          },
+          {
+            "id": "259a5df488125eb3",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "3bebc978bcc87330",
+  "active": "0e538412da847dd5",
   "lastOpenFiles": [
-    "English/IT/Layout/Flex - определения.md",
-    "English/IT/Layout/Classes.md",
-    "English/IT/SVG/Figures.md",
-    "English/Home/New.md",
-    "English/Common/Technical.md",
-    "English/IT/Layout/JS.md",
+    "CSS/Transition.md",
     "README.md",
-    "English/IT/Layout.md"
+    "English/Common/Technical.md",
+    "English/Home/New.md",
+    "English/IT/SVG/Figures.md",
+    "English/IT/Layout/JS.md",
+    "English/IT/Layout/Flex - определения.md",
+    "English/IT/Layout/Classes.md"
   ]
 }
