@@ -13,6 +13,17 @@
             "mode": "preview"
           }
         }
+      },
+      {
+        "id": "0fe0a3dc640b1793",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Common/Technical.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +106,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3bebc978bcc87330",
+  "active": "0fe0a3dc640b1793",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "CSS/Transition.md",
     "English/Common/Technical.md",
     "English/IT/Layout/Flex - определения.md",
     "English/IT/Layout/Classes.md",
