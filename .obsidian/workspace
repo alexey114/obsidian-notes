@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/IT/Layout/Flex - определения.md",
+            "file": "English/Common/Technical.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/IT/Layout/Flex - определения.md",
+                "file": "English/Common/Technical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,11 +97,11 @@
   },
   "active": "3bebc978bcc87330",
   "lastOpenFiles": [
+    "English/Common/Technical.md",
     "English/IT/Layout/Flex - определения.md",
     "English/IT/Layout/Classes.md",
     "English/IT/SVG/Figures.md",
     "English/Home/New.md",
-    "English/Common/Technical.md",
     "English/IT/Layout/JS.md",
     "README.md",
     "English/IT/Layout.md"
