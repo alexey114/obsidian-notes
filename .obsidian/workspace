@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS/Transition.md",
+            "file": "Без названия.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/Transition.md",
+                "file": "Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "3bebc978bcc87330",
   "lastOpenFiles": [
-    "CSS/Transition.md",
+    "README.md",
     "Без названия.md",
+    "CSS/Transition.md",
     "English/Common/Technical.md",
     "conflict-files-obsidian-git.md",
     "English/IT/Layout/Flex - определения.md",
     "English/IT/Layout/Classes.md",
     "English/IT/SVG/Figures.md",
     "English/Home/New.md",
-    "English/IT/Layout/JS.md",
-    "README.md"
+    "English/IT/Layout/JS.md"
   ]
 }
